@@ -19,6 +19,7 @@
 
 /* Keep the lower service zones clear of the storage-rack footprint. */
 .warehouse .racks { height: 66%; }
+.warehouse { height: clamp(360px, 48vh, 500px); }
 .warehouse .robot.rerouting { animation: reroute-turn .45s ease-in-out infinite alternate; }
 .warehouse .robot.waiting { box-shadow: 0 0 16px #fbbf24; }
 
