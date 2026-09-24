@@ -1,0 +1,8 @@
+{
+  "name": "Fleet Mesh - Edge-AI AMR Fleet Coordination",
+  "description": "Fleet Mesh: Decentralized edge-AI autonomous mobile robot fleet coordination digital twin.",
+  "prompt": "Fleet Mesh edge-AI AMR fleet coordination simulation with real-time navigation, collision avoidance, and edge telemetry",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
